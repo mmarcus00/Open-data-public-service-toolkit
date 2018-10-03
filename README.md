@@ -1,5 +1,4 @@
 # Open-data-public-service-toolkit
-Mozilla Open Leaders project work
 
 
 <b>Hi! Welcome to the Open Data Public Services Toolkit repo! </b><br>
@@ -9,7 +8,7 @@ This document (the README file) is a hub to give you some information about the 
 <b>Who are we?</b><br>
 We are the Open Data Institute, we're an organisations that does all sorts of things to do with Open Data, including advoacy, training, technology development and research. This project is part of a wider research and development programme about how we can help people use data to make better services. 
 
-What are we doing? (And why?)
+<b>What are we doing? (And why?)</b><br>
 This project aims to help people working in local governments in the UK overcome the technical, organisational and cultural barriers to making innovative public servces that improve the lives of their communities using data. 
 
 Many public services in the UK are expected to deliver efficiency savings along with improved outcomes for citizens. Open data is already being used to provide better public services in some places in the UK, showing how useful it can be. For example, the release of travel and mapping information in London reduced the need for the the public sector to build services for end users and helped build a new market of digital mapping and travel services to meet people’s needs.
@@ -41,18 +40,18 @@ The Open Data Public Servcices Toolkit will try and help people overcome these c
 3) championing open 
 
 
-What do we need?
+<b>What do we need?</b><br>
 We need people to use the tools to help us make them better. 
 
-How can you get involved?
+<b>How can you get involved?</b><br>
 We have a series of events in the UK coming up to test the toolkits- more info to come on that. 
 
 If you're not in the UK, check out the tools, give them a go on your projects, and let us know what you think. 
 
-Get in touch
+<b>Get in touch</b><br>
 If you want to know more, get in touch with me at miranda.marcus@theodi.org
 
-Find out more
+<b>Find out more</b><br>
 More information on the project as a whole can be found here: https://theodi.org/project/research-and-development-new-service-delivery-models/
 
 
