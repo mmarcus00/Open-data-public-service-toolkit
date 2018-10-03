@@ -2,11 +2,11 @@
 Mozilla Open Leaders project work
 
 
-Hi! Welcome to the Open Data Public Services Toolkit repo! 
+<b>Hi! Welcome to the Open Data Public Services Toolkit repo! </b><br>
 
 This document (the README file) is a hub to give you some information about the project. 
 
-<b>Who are we?</b>
+<b>Who are we?</b><br>
 We are the Open Data Institute, we're an organisations that does all sorts of things to do with Open Data, including advoacy, training, technology development and research. This project is part of a wider research and development programme about how we can help people use data to make better services. 
 
 What are we doing? (And why?)
