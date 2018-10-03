@@ -14,11 +14,11 @@ This project aims to help people working in local governments in the UK overcome
 Many public services in the UK are expected to deliver efficiency savings along with improved outcomes for citizens. Open data is already being used to provide better public services in some places in the UK, showing how useful it can be. For example, the release of travel and mapping information in London reduced the need for the the public sector to build services for end users and helped build a new market of digital mapping and travel services to meet people’s needs.
 
 There are three different types of public services that open data can help with:
-
-1) Open data for better access to public services
-2) Open data for more efficient service delivery chains
-3) Open data for more informed public policy development 
-
+<ol>
+  <li>1) Open data for better access to public services</li>
+  <li>2) Open data for more efficient service delivery chains</li>
+  <li>3) Open data for more informed public policy development </li>
+</ol>
 If you want to find out more about how data can help public services, have a look at our report here: https://theodi.org/article/using-open-data-for-public-services-report-2/
 
 However, when we talked to people in local governments and service designers, they told us about the porblems they face when trying to use shared and open data to create new, or improve existing services. 
