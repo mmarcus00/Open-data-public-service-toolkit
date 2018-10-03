@@ -15,30 +15,28 @@ Many public services in the UK are expected to deliver efficiency savings along 
 
 There are three different types of public services that open data can help with:
 <ol>
-  <li>1) Open data for better access to public services</li>
-  <li>2) Open data for more efficient service delivery chains</li>
-  <li>3) Open data for more informed public policy development </li>
+  <li>Open data for better access to public services</li>
+  <li>Open data for more efficient service delivery chains</li>
+  <li>Open data for more informed public policy development </li>
 </ol>
 If you want to find out more about how data can help public services, have a look at our report here: https://theodi.org/article/using-open-data-for-public-services-report-2/
 
 However, when we talked to people in local governments and service designers, they told us about the porblems they face when trying to use shared and open data to create new, or improve existing services. 
 
-     - Lots of people don't even know what open data is, so they need to build a general understanding in their organisations so that open data can be used when designing services.
-
-    - They need to get their boss' on board with the idea. Using open data is new and unknown so this can be hard. To do this they need to point to examples of where it has worked in other places.
-
-    - It's often hard to find and access open datasets
-
-    - It's often not clear who is accountable for maintaining open datasets so they can be sure they are using good quality data
-
-    - It's hard to get people from different departments in the local gvernment to work together
-
+<ul>
+  <li>Lots of people don't even know what open data is, so they need to build a general understanding in their organisations so that open data can be used when designing services</li>
+<li>They need to get their boss' on board with the idea. Using open data is new and unknown so this can be hard. To do this they need to point to examples of where it has worked in other places</li>
+<li>It's often hard to find and access open datasets</li>
+<li>It's often not clear who is accountable for maintaining open datasets so they can be sure they are using good quality data</li>
+<li>It's hard to get people from different departments in the local gvernment to work together</li>
+</ul>
 The Open Data Public Servcices Toolkit will try and help people overcome these challenges. As one of the main issues is getting senior management on board, we are going to structure it around helping people make a great business case. It will pull together simple, practical examples and tools to help with four key themes: 
 
-1) identifying the goal and purpose of the service
-2) using data 
-3) championing open 
-
+<ol>
+  <li>identifying the goal and purpose of the service</li>
+  <li>using data</li>
+  <li>championing open</li> 
+</ol>
 
 <b>What do we need?</b><br>
 We need people to use the tools to help us make them better. 
