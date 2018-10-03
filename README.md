@@ -25,13 +25,14 @@ However, when we talked to people in local governments and service designers, th
 
 <ul>
   <li>Lots of people don't even know what open data is, so they need to build a general understanding in their organisations so that open data can be used when designing services</li>
-<li>They need to get their boss' on board with the idea. Using open data is new and unknown so this can be hard. To do this they need to point to examples of where it has worked in other places</li>
-<li>It's often hard to find and access open datasets</li>
-<li>It's often not clear who is accountable for maintaining open datasets so they can be sure they are using good quality data</li>
-<li>It's hard to get people from different departments in the local gvernment to work together</li>
+  <li>They need to get their boss' on board with the idea. Using open data is new and unknown so this can be hard. To do this they need to point to examples of where it has worked in other places</li>
+  <li>It's often hard to find and access open datasets</li>
+  <li>It's often not clear who is accountable for maintaining open datasets so they can be sure they are using good quality data</li>
+  <li>It's hard to get people from different departments in the local gvernment to work together</li>
 </ul>
-The Open Data Public Servcices Toolkit will try and help people overcome these challenges. As one of the main issues is getting senior management on board, we are going to structure it around helping people make a great business case. It will pull together simple, practical examples and tools to help with four key themes: 
 
+The Open Data Public Servcices Toolkit will try and help people overcome these challenges. As one of the main issues is getting senior management on board, we are going to structure it around helping people make a great business case. It will pull together simple, practical examples and tools to help with four key themes: 
+<br>
 <ol>
   <li>identifying the goal and purpose of the service</li>
   <li>using data</li>
@@ -53,8 +54,19 @@ If you want to know more, get in touch with me at miranda.marcus@theodi.org
 More information on the project as a whole can be found here: https://theodi.org/project/research-and-development-new-service-delivery-models/
 
 
-Understand the jargon
+<b>Understand the jargon</b><br>
+What are public services? Some examples are: 
 
+<ul>
+  <li>Schools</li>
+  <li>roads</li>
+  <li>waste management</li>
+  <li>hospitals</li>  
+  <li>transport</li>
+</ul>
 
+There are a lot of things that can be included and when you start trying to define it, it can get complicated. Often 'public services' are provided by an ecosystem of public and private organisations. What about charities and NGOs? We spent a lot of time thinking about how to define 'public services' and came up with this definition: 
+
+<i>"A public service helps groups of people to fulfil a need, the fulfilment of which is viewed to be in the public interest, and which public sector organisations recognise the need to provide.”</i>
 
 
